@@ -1,5 +1,6 @@
 package day48_encapsulation.static_imports;
 import java.util.Arrays;
+import my_utilities.StringUtil;
 
 public class Normal {
     public static void main(String[] args) {
