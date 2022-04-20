@@ -11,8 +11,8 @@ public class Building {
         person1.favoriteHobby = "Going to gym";
         person1.talk();
 
-        //person1.study();  this was a method made in child class
-        //person1.FunLevel=5;
+        person1.study(); // this was a method made in child class
+        person1.FunLevel=5;
 
         Student obj2 = new Student();
         obj2.name="Jorge";
