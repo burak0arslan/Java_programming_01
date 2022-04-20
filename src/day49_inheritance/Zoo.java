@@ -13,6 +13,14 @@ public class Zoo {
         dog.numberOfLegs = 4;
         dog.walk();
 
+        Lion lion = new Lion();
+        // Q : How many instance variables does the lion object have access to? -> 3
+        // Q : How many instance methods does the lion object have access to? -> 2
+
+        lion.roar();
+        lion.species = "Species";
+        lion.walk();
+
 
     }
 }
