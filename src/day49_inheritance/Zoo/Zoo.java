@@ -1,4 +1,4 @@
-package day49_inheritance;
+package day49_inheritance.Zoo;
 
 public class Zoo {
     public static void main(String[] args) {

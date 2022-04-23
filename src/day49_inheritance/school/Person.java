@@ -1,4 +1,4 @@
-package day49_inheritance;
+package day49_inheritance.school;
 
 import my_utilities.StringUtil;
 

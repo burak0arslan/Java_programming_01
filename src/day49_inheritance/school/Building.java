@@ -1,6 +1,4 @@
-package day49_inheritance;
-
-import jdk.jshell.PersistentSnippet;
+package day49_inheritance.school;
 
 public class Building {
     public static void main(String[] args) {

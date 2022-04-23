@@ -1,6 +1,4 @@
-package day49_inheritance;
-
-import day47_encapsulation.DebitCard;
+package day49_inheritance.IT;
 
 public class OfficeIT {
     public static void main(String[] args) {

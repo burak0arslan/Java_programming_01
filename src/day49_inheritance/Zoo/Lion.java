@@ -1,6 +1,4 @@
-package day49_inheritance;
-
-import my_utilities.StringUtil;
+package day49_inheritance.Zoo;
 
 public class Lion extends Animal{
 
