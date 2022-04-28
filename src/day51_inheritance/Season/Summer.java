@@ -9,4 +9,6 @@ public class Summer extends Season{
     public void activity(){
         System.out.println("Drink lemonade");
     }
+
+
 }
